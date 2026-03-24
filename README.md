@@ -1,3 +1,4 @@
+# CLOSED PROJETC
 # Qalqon (Android Offline Security App)
 
 Qalqon is an Android security monitor that watches device storage for incoming APK files and warns users before installation.
